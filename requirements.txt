@@ -1,0 +1,6 @@
+openai>=1.40.0
+xlwings>=0.30.0
+pyautogui>=0.9.54
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+python-dotenv>=1.0.0
